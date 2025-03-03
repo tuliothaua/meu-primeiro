@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(227, 195, 136);
+
+}
+
+body [id=titulo1] {
+
+    color: white;
+    font: normal 50pt Heavitas;
+    text-shadow: 5px 5px 10px rgb(202, 110, 24);
+    text-align: center;
+
+
+}
+
+body [id=titulo2] {
+
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section {
+    background-color: white;
+    border-radius: 18px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.549);
+}
+
+body [id=lasttxt] {
+
+    text-align: center;
+    font-style: italic;
+}
+
+footer {
+
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 3%;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 5px 5px 10px brown;
+
+}
